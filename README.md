@@ -12,7 +12,7 @@ How to use Lottie Animation in Your Projects. Simple and Beautiful Animation.
 
 # Working Gif
 
-<img src="https://user-images.githubusercontent.com/73787635/132471987-37ff4321-9739-4abc-aecb-213a31901788.mp4" height = 470, width = 290/>
+<img src="https://user-images.githubusercontent.com/73787635/132472841-1bf03f62-0ec5-4a18-a59f-7d6b33ee1c7f.gif" height = 470, width = 290/>
 
 ## Getting Started
 
