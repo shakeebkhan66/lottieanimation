@@ -1,6 +1,10 @@
 # lottieanimation
 
-A new Flutter application.
+How to use Lottie Animation in Your Projects. Simple and Beautiful Animation.
+
+# Logo
+
+<img src="https://user-images.githubusercontent.com/73787635/132471328-14aa31e2-784f-416b-ad03-f90612e3e68d.gif" height = 300, width = 200/>
 
 ## Getting Started
 
