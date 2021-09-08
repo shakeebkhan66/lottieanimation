@@ -10,6 +10,10 @@ How to use Lottie Animation in Your Projects. Simple and Beautiful Animation.
 
 <img src="https://user-images.githubusercontent.com/73787635/132471689-38dfad0a-0274-4dbe-b6a5-addd2a2d286b.jpeg" height = 450, width = 290/>
 
+# Working Gif
+
+<img src="https://user-images.githubusercontent.com/73787635/132471987-37ff4321-9739-4abc-aecb-213a31901788.mp4" height = 470, width = 290/>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
